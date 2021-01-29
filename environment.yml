@@ -1,0 +1,9 @@
+name: nzv_excel
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - click
+  - openpyxl
