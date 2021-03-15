@@ -1,1 +1,1 @@
-python\python.exe edit_excel.py %1 %2 %3 %4
+python\python.exe edit_excel.py %1 %2 %3 %4 %5 %6
